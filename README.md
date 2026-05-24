@@ -75,3 +75,6 @@ Real-time sensor data is transmitted using WiFi/BLE communication for monitoring
 ## Authors
 
 - Siddharth Kshatriya
+- Shyambhavi Naikar
+- Trupti Shinde
+- Vikas Gurav
