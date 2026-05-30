@@ -64,11 +64,11 @@ Real-time sensor data is transmitted using WiFi/BLE communication for monitoring
 ## Future Improvements
 
 - Few more devices in the kit
-- Cloud integration
-- AI-based asthma prediction
-- User Friendly App
-- Improved wearable enclosure
-- Battery optimization
+- Cloud integration. Service to be decided.
+- User Friendly App using MIT App inventor
+- Improved wearable enclosure using 3D printer
+- Battery optimization by introducing duty cycle
+- Workflow will shift from ArduinoIDE to VS-Code with PlatformIO
 
 ---
 
